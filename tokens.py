@@ -1,0 +1,7 @@
+spotify_client_id = "TOKEN_GOES_HERE"
+spotify_client_secret = "TOKEN_GOES_HERE"
+twitter_api_key = "TOKEN_GOES_HERE"
+twitter_api_secret_key = "TOKEN_GOES_HERE"
+twitter_bearer_token = "TOKEN_GOES_HERE"
+twitter_access_token = "TOKEN_GOES_HERE"
+twitter_access_token_secret = "TOKEN_GOES_HERE"
